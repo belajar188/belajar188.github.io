@@ -1,0 +1,16 @@
+body {
+    background-color: blueviolet;
+}
+
+.container-navbar {
+background-color: darkgoldenrod;
+}
+
+.ul-navbar {
+background-color: greenyellow;
+}
+
+.li-navbar {
+    border: 5px solid green;
+    list-style-type: none;
+}
